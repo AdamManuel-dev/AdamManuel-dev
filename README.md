@@ -13,7 +13,7 @@
   - GCP, Azure, & FaunaDB
   - Visual Regression Tests
   - Storybook
-  - ava
+  & More
 - 📫 How to reach me: adam@manuel.dev
 
 <p style="background: red"> ⚠ Under Construction ⚠ </p>

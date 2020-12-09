@@ -21,6 +21,6 @@
   - Launchable
 - 📫 How to reach me: adam@manuel.dev
 
-| ⚠ How to below is under construction
+<p style="background: red"> ⚠ Under Construction ⚠ </p>
 
 [How I built the tracking pixel powering the profile view count](http://manuel.dev/blog/serverless-pixel)

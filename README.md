@@ -5,20 +5,15 @@
 - 🔭 I’m currently working on
   - A [portfolio](https://adam.manuel.dev) website
   - A [CMS](https://portal.manuel.dev) for that portfolio website
-  - Realty Components for Duda
   - Markdown Editor
   - AirTable GrapQL Adapater (automatic schema updates)
-  - Svelte DnD Editor
-  - Universal Chat Web Component
-  - Universal Comment/React Web Component
+  - & More
 - 🌱 I’m currently learning and building with 
   - Sapper
-  - Rust
-  - Google Cloud Platform
-  - FaunaDB w/ FQL
-  - [Bandwidth](https://www.bandwidth.com/)
+  - GCP, Azure, & FaunaDB
   - Visual Regression Tests
-  - Launchable
+  - Storybook
+  - ava
 - 📫 How to reach me: adam@manuel.dev
 
 <p style="background: red"> ⚠ Under Construction ⚠ </p>

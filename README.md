@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fportfolio-manuel.web.app%2Ftracking-total)
-![Google Cloud](https://portfolio-manuel.web.app/tracking-image)
+![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fportfolio-manuel.web.app%2Ftracking-total)
+![Profile View Tracker](https://portfolio-manuel.web.app/tracking-image)
 
 Here are some ideas to get you started:
 

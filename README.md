@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
   - A [portfolio](https://adam.manuel.dev) website
-  - A [CMS](https://adam.manuel.dev) for that portfolio website
+  - A [CMS](https://portal.manuel.dev) for that portfolio website
   - Realty Components for Duda
   - FSM using CosmosDB
 - 🌱 I’m currently learning 

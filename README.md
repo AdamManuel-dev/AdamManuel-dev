@@ -2,19 +2,24 @@
 ![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fportfolio-manuel.web.app%2Ftracking-total)
 ![Profile View Tracker](https://portfolio-manuel.web.app/tracking-image)
 
-- 🔭 I’m currently working on
+- 🌌 Checkout my personal spaces
+  - A [blog](https://blog.manuel.dev) website
+  - A [portfolio](https://adam.manuel.dev) website
+- 🔭 I’m currently working with
+  - A [blog](https://blog.manuel.dev) website
   - A [portfolio](https://adam.manuel.dev) website
   - A [CMS](https://portal.manuel.dev) for that portfolio website
-  - Markdown Editor
-  - AirTable GrapQL Adapater (automatic schema updates)
-  - & More
-- 🌱 I’m currently learning and building with 
-  - Sapper
+  - GeoSpatial Analytics using NoSQL Database
+  - Micro Frontends w/ Svelte, Angular, and Web Components v2
+  - Optimizing Scalable GraphQL APIs
+  - & Confidential Contracts
+- 🌱 I’m currently learning 
+  - Sapper / Elder.JS & making bundled Web Components
   - GCP, Azure, & FaunaDB
-  - Visual Regression Tests
-  - Storybook
-  & More
-- 📫 How to reach me: adam@manuel.dev
+  - Visual Regression Tests w/ Storybook
+  - Serverless Python
+  - NLP clustering & tagging of notes and informational links 
+- 📫 Please reach me at adam@manuel.dev (especially if you are working on something cool)
 
 <p style="background: red"> ⚠ Under Construction ⚠ </p>
 

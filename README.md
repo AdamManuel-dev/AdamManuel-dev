@@ -16,6 +16,7 @@
   - Visual Regression Tests w/ Storybook
   - Serverless Python
   - NLP clustering & tagging of notes and informational links 
+  - Review & Continuing Vector Calculus
 - 📫 Please reach me at adam@manuel.dev (especially if you are working on something cool)
 
 <p style="background: red"> ⚠ Under Construction ⚠ </p>

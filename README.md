@@ -6,16 +6,13 @@
   - A [blog](https://blog.manuel.dev) website
   - A [portfolio](https://adam.manuel.dev) website
 - 🔭 I’m currently working with
-  - A [blog](https://blog.manuel.dev) website
-  - A [portfolio](https://adam.manuel.dev) website
-  - A [CMS](https://portal.manuel.dev) for that portfolio website
   - GeoSpatial Analytics using NoSQL Database
   - Micro Frontends w/ Svelte, Angular, and Web Components v2
   - Optimizing Scalable GraphQL APIs
   - & Confidential Contracts
 - 🌱 I’m currently learning 
   - Sapper / Elder.JS & making bundled Web Components
-  - GCP, Azure, & FaunaDB
+  - GCP & FaunaDB
   - Visual Regression Tests w/ Storybook
   - Serverless Python
   - NLP clustering & tagging of notes and informational links 

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🌌 Checkout my personal spaces
-  - A [blog](https://blog.manuel.dev)
-  - A [resume](https://adam.manuel.dev) site
+  - My [blog](https://blog.manuel.dev)
+  - My [resume](https://adam.manuel.dev) site
 - 🔭 I’m currently working with
   - GeoSpatial Analytics using NoSQL Database
   - Micro Frontends w/ Svelte, Angular, and Web Components v2

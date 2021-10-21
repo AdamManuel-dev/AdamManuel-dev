@@ -1,10 +1,8 @@
 ### Hi there 👋
-![Profile Views](https://img.shields.io/endpoint?url=https%3A%2F%2Fportfolio-manuel.web.app%2Ftracking-total)
-![Profile View Tracker](https://portfolio-manuel.web.app/tracking-image)
 
 - 🌌 Checkout my personal spaces
-  - A [blog](https://blog.manuel.dev) website
-  - A [portfolio](https://adam.manuel.dev) website
+  - A [blog](https://blog.manuel.dev)
+  - A [resume](https://adam.manuel.dev) site
 - 🔭 I’m currently working with
   - GeoSpatial Analytics using NoSQL Database
   - Micro Frontends w/ Svelte, Angular, and Web Components v2

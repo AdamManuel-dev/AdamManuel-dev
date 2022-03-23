@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🌌 Checkout my personal spaces
-  - My Personal [Blog](https://blog.manuel.dev) to share my thoughts & ideas
-  - My [Resume](https://adam.manuel.dev) site to easily distribute contact info
-  - My [RSS Feed](https://adammanuel-dev.github.io/feeds/all.xml) that watches other news/blog websites for changes daily.
+  - [Personal Blog](https://blog.manuel.dev)
+  - [Public Resume](https://adam.manuel.dev)
+  - [Personal RSS Feed](https://adammanuel-dev.github.io/feeds/all.xml)
   - _(incomplete)_
     - A multiplayer version of [Wordle](https://wordle.manuel.dev/) hosted on the edge network
     - A self-hosted book sharing website ["Bookshelf"](https://books.manuel.dev/)
@@ -21,7 +21,7 @@
   - Modern ReactJS w/ NextJS & Vercel
   - Visual Regression Tests using Storybook and Chromatic
   - NLP clustering & tagging of notes and informational links
-  - Knowledge Graph Fundamentals for a secret NLP & KG application
+  - Knowledge Graph (& NLP) Fundamentals
 
 
 📫 Please reach me at adam@manuel.dev (especially if you are working on something interesting, and/or knowledge graph related)

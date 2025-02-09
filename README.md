@@ -3,6 +3,7 @@
 
 - 🔭 Current Public Projects
   - Working at Snappy
+  - Building Synq
   - Research Assistant with ChatGPT (Aggregate interesting, well sourced, high reputation academic papers weekly into a report)
 - 🌌 Checkout my personal spaces
   - [Personal Blog](https://blog.manuel.dev)

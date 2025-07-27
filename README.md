@@ -1,4 +1,4 @@
-### Hi there 👋, I'm just a dev that likes to build
+# Hi there 👋, I'm just a dev that likes to build
 
 
 - 🔭 Current Projects
@@ -19,6 +19,10 @@
 - 🌌 Checkout my personal spaces
   - [Personal Blog](https://blog.manuel.dev)
   - [Public Resume](https://adam.manuel.dev)
+ 
+----
+
+----
  
 # Currently building a few different AI Agents. Here is the current status of each of them
 

@@ -22,10 +22,7 @@
  
 ----
 
-Based on your GitHub repositories, here's a comprehensive summary:
-
-## Repository Overview
-You have 46 public repositories spanning various technologies and domains. Your work demonstrates a strong focus on modern web development, AI/autonomous agents, and developer tooling.
+Here's a comprehensive summary of my **Public** GitHub repositories:
 
 ## Key Technology Areas
 

@@ -154,7 +154,7 @@
   - **Todo Agent** (86.3% coverage): NLP-powered task management
   - **Stock Agent** (100%+ coverage): Market analysis with Alpaca integration
   - **Weather Agent** (58.62% coverage): Enhanced weather forecasting
-  - **News Agent** (17.77% coverage): AI/LLM news aggregation
+  - **News Agent** (17.77% coverage): AI/LLM news aggregation (LEGACY)
   - **Research Agent** (100%+ coverage): Multi-LLM research capabilities
   - **Financial Agent** (100%+ coverage): Personal finance management with Plaid
   - **Web Analysis Agent** (63.57% coverage): Web scraping with Stagehand

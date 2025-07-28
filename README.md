@@ -103,6 +103,7 @@ Building technology should lift everyone up. That's why I'm focused on breaking 
 ---
 
 ### 🔭 Current Focus
+- Building privacy-first data collaboration features
 - Real-time systems optimization
 - AI-enhanced development workflows
 - Music industry disruption

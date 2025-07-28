@@ -6,18 +6,29 @@ I'm building [SYNQ](https://synq.fm) to democratize live music data and help ind
 
 **SYNQ** - The data intelligence platform for independent music
 - 🎫 Smart ticketing with 5% fees (vs industry's 10%)
-- 📊 Collaborative analytics for 1000+ venues
-- 🔍 ML-powered event discovery
+- 🤖 Autonomous web agents for event and task optimization
+- 🔍 ML-powered discovery (Music, Documents, etc)
 - 🔐 Privacy-first data sharing
+
+**Autonomous Coding Agents**
+- 🛠️ Self-running development workflows
+- 🧪 Automated testing and code generation
+- 📋 Task management for AI-assisted development
+
+**Adversarial Agent Training**
+- 🔄 UI Explorer vs Developer agents in continuous improvement loops
+- 🎯 Self-healing automation through adversarial challenge-response
+- 🧠 Pattern recognition and edge case discovery at scale
+- ⚡ Production-ready scripts through battle-tested iterations
 
 ## 🛠 Tech Stack
 
 ```javascript
 const adam = {
-  current: ['TypeScript', 'React', 'Node.js', 'Python'],
-  cloud: ['Azure', 'Vercel', 'Serverless'],
-  data: ['PostgreSQL', 'Real-time Systems', 'Data Pipelines'],
-  exploring: ['LLMs', 'Claude API', 'Autonomous Agents']
+  current: ['TypeScript', 'React', 'Node.js', 'Python', 'Mastra', 'BrowserBase', 'StageHand'],
+  cloud: ['Azure', 'AWS', 'Docker', 'Vercel', 'Serverless'],
+  data: ['PostgreSQL', 'MongoDB', 'CosmosDB', 'MSSQL', 'Event Sourcing', 'Event Orchestration', 'Real-time Systems', 'Data Pipelines'],
+  exploring: ['LLMs', 'Claude API', 'Autonomous Agents', 'Test Generation', 'Coding Agent Context Optimization', 'Task Automation', 'Test Generation Automation']
 };
 ```
 
@@ -109,7 +120,7 @@ Building technology should lift everyone up. That's why I'm focused on breaking 
 - Music industry disruption
 
 ### 🌱 Always Learning
-- Advanced distributed systems
+- Agentic workflows / architecture
 - Music industry dynamics
 - Privacy-preserving tech
 - Community building

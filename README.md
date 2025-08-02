@@ -34,8 +34,8 @@ const adam = {
 
 ## 📈 Career Journey
 
-- **Now**: Software Engineer @ Snappy (Fortune 100 clients)
-- **Previously**: PLNAR (3+ years), Augmented Destiny (Azure)
+- **Now**: Software Engineer @ Snappy (1 year, Fortune 100 clients)
+- **Previously**: PLNAR (3 years), Augmented Destiny (2 years), Independant Contractor (~1.5 years)
 - **Started**: Neural networks & LAN networks before they were cool
 
 ## 📝 Latest Blog Posts

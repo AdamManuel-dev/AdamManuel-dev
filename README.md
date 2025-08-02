@@ -25,7 +25,7 @@ I'm building [SYNQ](https://synq.fm) to democratize live music data and help ind
 
 ```javascript
 const adam = {
-  current: ['TypeScript', 'React', 'Node.js', 'Python', 'Mastra', 'BrowserBase', 'StageHand'],
+  current: ['TypeScript', 'React', 'Angular 2+', Svelte (3), 'Node.js', 'NestJS', 'Express', 'Python', 'FastAPI', etc],
   cloud: ['Azure', 'AWS', 'Docker', 'Vercel', 'Serverless'],
   data: ['PostgreSQL', 'MongoDB', 'CosmosDB', 'MSSQL', 'Event Sourcing', 'Event Orchestration', 'Real-time Systems', 'Data Pipelines'],
   exploring: ['LLMs', 'Claude API', 'Autonomous Agents', 'Test Generation', 'Coding Agent Context Optimization', 'Task Automation', 'Test Generation Automation']

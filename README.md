@@ -1,6 +1,6 @@
 # Hey, I'm Adam 👋
 
-I'm building intelligent automation systems and AI agents to make software development and web interaction more accessible. Currently architecting resilient frontend systems at Snappy Gifts while pushing the boundaries of autonomous agents and intelligent automation.
+I'm building intelligent automation systems and AI agents to make software development and web interaction more accessible. Currently architecting resilient and performant frontend systems at Snappy Gifts while pushing the boundaries of autonomous agents and intelligent automation.
 
 ## 🤖 What I'm Building
 

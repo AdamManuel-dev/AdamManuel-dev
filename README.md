@@ -23,7 +23,7 @@ I'm building intelligent automation systems and AI agents to make software devel
 - 🖼️ Supports multi-platform and component-level diffing  
 
 ### Other Projects
-- [Multigenerational Agent](https://github.com/AdamManuel-dev/multigenerational-agent) – Long-term autonomous agent orchestration  
+- [Multigenerational Agent](https://github.com/AdamManuel-dev/multigenerational-agent) – Expirament of when you give an LLM the ability to prompt itself  
 - [AI Agent Traps](https://github.com/AdamManuel-dev/AI-Agent-Traps) – Adversarial testing framework for AI agents  
 - [Adaptive Mastery Learning System](https://github.com/AdamManuel-dev/adaptive-mastery-learning-system) – Personalized learning and skill progression engine  
 

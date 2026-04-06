@@ -1,39 +1,39 @@
 # Hey, I'm Adam 👋
 
-I'm building intelligent automation systems and AI agents to make software development and web interaction more accessible. Currently architecting resilient and performant frontend systems at Snappy Gifts while pushing the boundaries of autonomous agents and intelligent automation.
+I'm building intelligent automation systems and AI agents to make software development and web interaction more accessible. At the core of my work is **[Tahoma AI](https://www.tahoma.io/)**, a privacy-first web automation platform that uses natural language to orchestrate workflows, capture browser interactions, and enable autonomous agents to perform complex tasks reliably.
+
+---
 
 ## 🤖 What I'm Building
 
-**[Tahoma AI](https://www.tahoma.io/)** - Intelligent web automation platform with natural language controls and determinalistic results
+### [Tahoma AI](https://www.tahoma.io/) ![Platform](https://img.shields.io/badge/platform-Web-blue)
+- 🎯 Privacy-first browser interaction capture and replay  
+- 🧠 LLM-powered automation and self-healing orchestration  
+- 🔍 Split RAGs (private + public) for context-aware retrieval  
+- 🤫 And more—shh, top-secret features!
 
-- 🎯 Privacy-first browser interaction capture and replay
-- 🧠 LLM-powered automation and self-healing orchestration
-- 🔍 Split RAGs (private + public) for context-aware retrieval
-- and more! 🤫
+### [SwarmBench](https://github.com/AdamManuel-dev/SwarmBench) ![GitHub](https://img.shields.io/badge/status-Active-green)
+- ⚡ Real-time evaluation of autonomous agent strategies  
+- 🧠 Metrics for task efficiency, collaboration, and resilience  
+- 📊 Dashboard-ready outputs for experiment comparison  
 
-**Autonomous Coding Agents**
+### [Auto Image Diff](https://github.com/AdamManuel-dev/auto-image-diff) ![GitHub](https://img.shields.io/badge/status-Active-green)
+- 🔍 Detects visual changes automatically between builds  
+- ⚡ Integrates into CI/CD pipelines for fast feedback  
+- 🖼️ Supports multi-platform and component-level diffing  
 
-- 🔄 Self-running development workflows with continuous improvement
-- 🧪 Automated testing, code generation, and quality gates
-- 📋 Task management and orchestration for AI-assisted development
-- ⚡ Adversarial training loops (UI Explorer vs Developer agents)
-- 🤖 Self-healing codebases autonomous coding agents and Sentry
+### Other Projects
+- [Multigenerational Agent](https://github.com/AdamManuel-dev/multigenerational-agent) – Long-term autonomous agent orchestration  
+- [AI Agent Traps](https://github.com/AdamManuel-dev/AI-Agent-Traps) – Adversarial testing framework for AI agents  
+- [Adaptive Mastery Learning System](https://github.com/AdamManuel-dev/adaptive-mastery-learning-system) – Personalized learning and skill progression engine  
 
-
-**[Ultra Researcher](https://github.com/AdamManuel-dev/Ultra-Research)** - Deep research system with autonomous web intelligence
-
-- 🌐 Browserbase-powered web research and information aggregation at scale
-- 🔬 Retrieval-by-agent RAG architecture for dynamic context gathering
-- 🎯 Adaptive breadth-first and depth-first search strategies
-- 🧠 Multi-agent orchestration for comprehensive research workflows
-- ⚡ Production-ready alternative to Anthropic Research and OpenAI Deep Research
-
+---
 
 ## 🛠 Tech Stack
 
 ```javascript
 const adam = {
-  current: ['TypeScript', 'React', 'Angular 2+', Svelte (3), 'Node.js', 'NestJS', 'Express', 'Python', 'FastAPI', etc],
+  current: ['TypeScript', 'React', 'Angular 2+', 'Svelte (3)', 'Node.js', 'NestJS', 'Express', 'Python', 'FastAPI'],
   cloud: ['Azure', 'AWS', 'Docker', 'Vercel', 'Serverless'],
   data: ['PostgreSQL', 'MongoDB', 'CosmosDB', 'MSSQL', 'Event Sourcing', 'Event Orchestration', 'Real-time Systems', 'Data Pipelines'],
   exploring: ['LLMs', 'Claude API', 'Autonomous Agents', 'Test Generation', 'Coding Agent Context Optimization', 'Task Automation', 'Test Generation Automation']
@@ -42,22 +42,27 @@ const adam = {
 
 ## 📈 Career Journey
 
-- **Now**: Software Engineer @ Snappy (1 year, Fortune 100 clients)
-- **Previously**: PLNAR (3 years), Augmented Destiny (2 years), Independant Contractor (~1.5 years)
-- **Started**: First website at 12, first CS credit at 15, and 2nd place at the Texas UIL CS competitive programming competition at 18
+- **Now**: CTO @ Tahoma AI  
+- **Previously**: Software Engineer @ Snappy (1 year, Fortune 100 clients), PLNAR (3 years), Augmented Destiny (2 years), Independent Contractor (~1.5 years)  
+- **Started**: First website at 12, first CS credit at 15, and 2nd place at the Texas UIL CS competitive programming competition at 18  
+
+---
 
 ## 📝 Latest Blog Posts
 
-- [Guide to Building Autonomous AI Agents](https://blog.manuel.dev/guide-to-building-autonomous-ai-agents)
-- [Let ChatGPT Be Your Research Asst.](https://blog.manuel.dev/let-chatgpt-be-your-research-asst)
-- [More thoughts →](https://blog.manuel.dev)
+- [Guide to Building Autonomous AI Agents](https://blog.manuel.dev/guide-to-building-autonomous-ai-agents)  
+- [Let ChatGPT Be Your Research Asst.](https://blog.manuel.dev/let-chatgpt-be-your-research-asst)  
+- [More thoughts →](https://blog.manuel.dev)  
+
+---
 
 ## 💡 Philosophy
 
-> "I am, somehow, less interested in the weight and convolutions of Einstein's brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops." - Stephen Jay Gould
+> "I am, somehow, less interested in the weight and convolutions of Einstein’s brain than in the near certainty that people of equal talent have lived and died in cotton fields and sweatshops." – Stephen Jay Gould  
 
 Building technology should uplift everyone, not the few.
 
+---
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/adam-manuel)
